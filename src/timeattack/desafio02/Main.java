@@ -1,4 +1,5 @@
 package timeattack.desafio02;
+
 import java.util.Scanner;
 
 public class Main {
