@@ -21,11 +21,11 @@ public class Main {
     public static void voto(int anoNascimento) {
         int anoAtual = 2025;
         int idade = anoAtual - anoNascimento;
-        if (idade >= 18) {
-            System.out.println("Você tem " + idade + "anos. Pode tirar sua carteira.");
+        if (idade >= 16) {
+            System.out.println("Você tem " + idade + "anos. Pode votar.");
         }
         else {
-            System.out.println("Você tem "+idade+"anos. Ainda não pode tirar sua carteira");
+            System.out.println("Você tem "+idade+"anos. Ainda não pode votar");
         }
     }
 }
