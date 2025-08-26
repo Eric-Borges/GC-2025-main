@@ -1,4 +1,4 @@
-//
+package lista01.desafio01;//
 //Crie uma variável com seu respectivo tipo para todos os itens:
 //-Um nome;
 //-Uma idade;
