@@ -68,7 +68,7 @@ Qual minha comida favorita escrita ao contrário?
 Resposta:  ihsus ✔️
 ```
 Qual o meu anime favorito?
-```
+```one piece
 Resposta: 
 ```
 Qual meme que eu mandei o Giancarlo fez que está referenciando em um vídeo?
