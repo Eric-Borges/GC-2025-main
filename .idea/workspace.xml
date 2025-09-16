@@ -5,35 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62b77f7c-44ca-4dcd-bbb7-a90b32ca5fba" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_09_2025_09_45_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_09_2025_09_45_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_09_2025_09_45__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GCaldeira25.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/Cadeira.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/desafio03/CalculaBonusSwitch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/desafiozinho/desafio01/MatrixDiagonal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/excercicio08/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/lista01/desafio01/Main$Pessoa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/lista01/desafio01/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/lista01/desafio02/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/lista01/desafio03/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/lista02/Desafio/Calculadora.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/lista02/exercicio01/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/lista02/exercicio02/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/lista02/exercicio03/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/lista03/desafio05/ContaBancaria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/lista04/exercicio01/Carro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/lista04/exercicio01/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/lista04/exercicio01/Moto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/lista04/exercicio01/Veiculo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/timeattack/desafio01/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/timeattack/desafio02/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/timeattack/desafio03/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/timeattack/desafio04/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/timeattack/desafio05/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafiozinho/desafio01/MatrixDiagonal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lista02/desafio01/MatrixDiagonal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/excercicio08/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lista01/excercicio08/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,26 +47,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Cadeira.executor": "Run",
-    "Application.Calculadora.executor": "Run",
-    "Application.Carro.executor": "Run",
-    "Application.Concessionaria.executor": "Run",
-    "Application.ContaBancaria.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.concessionaria.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Cadeira.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calculadora.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Carro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Concessionaria.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContaBancaria.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.concessionaria.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/GC-2025-main&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\GC-2025-main\src\lista02" />
+      <recent name="C:\Users\User\IdeaProjects\GC-2025-main\src\lista01" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="GCaldeira25" />
