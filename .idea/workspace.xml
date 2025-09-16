@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62b77f7c-44ca-4dcd-bbb7-a90b32ca5fba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_09_2025_09_45_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_09_2025_09_45_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_09_2025_09_45__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GCaldeira25.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/Cadeira.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/desafio03/CalculaBonusSwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/desafiozinho/desafio01/MatrixDiagonal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/excercicio08/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/lista01/desafio01/Main$Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/lista01/desafio01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/lista01/desafio02/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/lista01/desafio03/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/lista02/Desafio/Calculadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/lista02/exercicio01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/lista02/exercicio02/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/lista02/exercicio03/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/lista03/desafio05/ContaBancaria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/lista04/exercicio01/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/lista04/exercicio01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/lista04/exercicio01/Moto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/lista04/exercicio01/Veiculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/timeattack/desafio01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/timeattack/desafio02/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/timeattack/desafio03/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/timeattack/desafio04/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GCaldeira25/timeattack/desafio05/Main.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Eric-Borges&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Eric-Borges/GC-2025-main.git&quot;,
+    &quot;accountId&quot;: &quot;61a7f416-46a2-41f6-bec6-fc844aa9b7a9&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="32OOuP82izyARj1bNoLFrBEQ49j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Cadeira.executor": "Run",
+    "Application.Calculadora.executor": "Run",
+    "Application.Carro.executor": "Run",
+    "Application.Concessionaria.executor": "Run",
+    "Application.ContaBancaria.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.concessionaria.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="GCaldeira25" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="GCaldeira25" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62b77f7c-44ca-4dcd-bbb7-a90b32ca5fba" name="Changes" comment="" />
+      <created>1757288373885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757288373885</updated>
+    </task>
+    <servers />
+  </component>
+</project>

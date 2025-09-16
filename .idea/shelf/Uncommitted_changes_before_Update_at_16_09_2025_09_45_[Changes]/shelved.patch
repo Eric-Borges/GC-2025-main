@@ -1,0 +1,21 @@
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Default ignored files\r\n/shelf/\r\n/workspace.xml\r\n
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+--- a/.idea/.gitignore	(revision 99560f7779213b67a05094cdb7f0f20feada96f2)
++++ b/.idea/.gitignore	(date 1758026726894)
+@@ -1,3 +1,9 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
++# Arquivos de configuração do IntelliJ IDEA
++.idea/
++*.iml
++*.ipr
++*.iws
++
++# Pasta de saída da compilação maquina pessoal
++out/
++
