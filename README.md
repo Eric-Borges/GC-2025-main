@@ -76,7 +76,7 @@ Resposta: one piece ✔️
 ```
 Qual meme que eu mandei o Giancarlo fez que está referenciando em um vídeo?
 ```
-Resposta:
+Resposta:Jhon Travolta
 ```
 Qual o melhor alien do Ben10?
 ```
@@ -84,5 +84,5 @@ Resposta:fantasmatico ✔️
 ```
 Qual o meu cantor favorito?
 ```
-Resposta:
+Resposta:Olie Skykes
 ```
