@@ -1,4 +1,4 @@
-package lista02.Desafio;
+package lista02.desafio02;
 import java.util.Scanner;
 //Criei o código sozinho, mas com comentários explicando como se tivesse codando com alguém.
 
