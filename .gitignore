@@ -1,0 +1,12 @@
+# Arquivos de configuração do IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Pasta de saída da compilação (Build output)
+out/
+
+# Arquivos de build de ferramentas como Maven e Gradle 
+target/
+build/
