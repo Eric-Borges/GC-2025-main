@@ -12,6 +12,8 @@
   <img width="150" height="150" alt="Senhor do Tempo" src="assets/bdg3-mambo.png" />
     <img width="150" height="150" alt="Aprovado" src="assets/bdg3-chora_gpt.png" />
   <img width="150" height="150" alt="Senhor do Tempo" src="assets/bdg-lista03.png" />
+    <img width="150" height="150" alt="Senhor do Tempo" src="assets/bdg-lista04.png" />
+
 </p>
 
 ---
