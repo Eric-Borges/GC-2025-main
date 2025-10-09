@@ -1,3 +1,5 @@
+package lista06.exercicio01;
+
 enum NivelAcesso {
     ADMIN,
     MODERADOR,
@@ -21,7 +23,6 @@ public class GerenciadorAcesso {
                 break;
         }
     }
-
     public static void main(String[] args) {
         System.out.println("Verificando permissões para cada nível de acesso:");
 
