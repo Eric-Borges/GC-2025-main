@@ -19,7 +19,7 @@ public class MapaNotas {
         System.out.print("Digite o nome do aluno para ver sua nota: ");
         String nomeAluno = scanner.nextLine();
 
-        // Usamos o método .get() para buscar o valor associado à chave
+        // Método .get() para buscar o valor associado à chave
         Double nota = mapaDeNotas.get(nomeAluno);
 
         if (nota != null) {
