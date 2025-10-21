@@ -1,6 +1,4 @@
-package lista06;
-
-import java.util.Arrays;
+package lista06.desafio;
 import java.util.HashMap;
 import java.util.Map;
 
