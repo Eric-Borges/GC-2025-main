@@ -8,7 +8,6 @@ public class MapaNotas {
     public static void main(String[] args) {
         Map<String, Double> mapaDeNotas = new HashMap<>();
 
-        // Adicionando alunos e notas com o método .put()
         mapaDeNotas.put("Ana", 8.5);
         mapaDeNotas.put("Carlos", 9.0);
         mapaDeNotas.put("Beatriz", 7.8);
@@ -19,7 +18,6 @@ public class MapaNotas {
         System.out.print("Digite o nome do aluno para ver sua nota: ");
         String nomeAluno = scanner.nextLine();
 
-        // Método .get() para buscar o valor associado à chave
         Double nota = mapaDeNotas.get(nomeAluno);
 
         if (nota != null) {
@@ -29,6 +27,6 @@ public class MapaNotas {
         }
 
         scanner.close();
-        System.out.println(); // Linha em branco para separar
+        System.out.println();
     }
 }

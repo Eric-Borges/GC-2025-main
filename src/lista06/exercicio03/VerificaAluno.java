@@ -7,10 +7,10 @@ import java.util.Set;
 public class VerificaAluno {
     public static void main(String[] args) {
         Set<String> nomesEstudantes = new HashSet<>();
-        nomesEstudantes.add("Ana");
-        nomesEstudantes.add("Carlos");
-        nomesEstudantes.add("Beatriz");
-        nomesEstudantes.add("Daniel");
+        nomesEstudantes.add("Eric");
+        nomesEstudantes.add("Rodinei");
+        nomesEstudantes.add("Cleriton");
+        nomesEstudantes.add("Omen");
 
         System.out.println("--- Verificação de Aluno (Exercício 3) ---");
         System.out.println("Alunos na turma: " + nomesEstudantes);
